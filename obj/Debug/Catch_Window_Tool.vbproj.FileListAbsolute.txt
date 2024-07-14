@@ -1,0 +1,17 @@
+E:\XAML学习\Catch_Window_Tool\bin\Debug\Catch_Window_Tool.exe.config
+E:\XAML学习\Catch_Window_Tool\bin\Debug\Catch_Window_Tool.exe
+E:\XAML学习\Catch_Window_Tool\bin\Debug\Catch_Window_Tool.pdb
+E:\XAML学习\Catch_Window_Tool\bin\Debug\Catch_Window_Tool.xml
+E:\XAML学习\Catch_Window_Tool\obj\Debug\MainWindow.g.vb
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Application.g.vb
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool_MarkupCompile.cache
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool_MarkupCompile.lref
+E:\XAML学习\Catch_Window_Tool\obj\Debug\MainWindow.baml
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool.g.resources
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool.Resources.resources
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool.vbproj.GenerateResource.cache
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool.vbproj.CoreCompileInputs.cache
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool.exe
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool.xml
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool.pdb
+E:\XAML学习\Catch_Window_Tool\obj\Debug\Catch_Window_Tool.vbproj.AssemblyReference.cache
