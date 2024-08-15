@@ -104,7 +104,7 @@ Class MainWindow
         Dim foregroundH As IntPtr = GetForegroundWindow()
         Dim foregroundHandle = foregroundH
         If foregroundH.ToString <> HWNDText1 Then
-            Dispatcher.BeginInvoke(Sub() HWNDText.Text = foregroundH.ToString)
+            Dispatcher.BeginInvoke(Sub() HWNDText.Text = $"0x{foregroundH.ToString("X")}")
         End If
 
         Dim windowTitle As New StringBuilder(256)
