@@ -39,7 +39,7 @@ Windows 7 SP1 - Windows 11，Windows 11 以上也可以使用。
 ### 源代码部署
 1. 将原代码 fork 至您认为合适的本地位置
 2. 使用 **Blend for Visual Studio 2019** 打开 Catch_Window_Tool.sln
-3. 您可以直接清空 app.mainfest 这样就不会弹出UAC窗口，但这样可能会导致一些潜在的问题。
+3. 您可以直接清空 app.manifest 这样就不会弹出UAC窗口，但这样可能会导致一些潜在的问题。
 4. 在 Mainwindow.vb 中 Function Catch_window() 是抓取窗口的主要部分。
 5. Function Catch_window() 是异步运行的，在 Async Sub Main() 中被调用。
 
